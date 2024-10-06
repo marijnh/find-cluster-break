@@ -1,0 +1,24 @@
+{
+  "name": "@marijn/find-cluster-break",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Find the position of grapheme cluster breaks in a string",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marijnh/find-cluster-break.git"
+  },
+  "keywords": ["unicode", "grapheme", "cluster", "break"],
+  "author": "Marijn Haverbeke <marijn@haverbeke.berlin>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marijnh/find-cluster-break/issues"
+  },
+  "homepage": "https://github.com/marijnh/find-cluster-break#readme",
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
