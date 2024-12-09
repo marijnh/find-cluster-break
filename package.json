@@ -1,6 +1,6 @@
 {
   "name": "@marijn/find-cluster-break",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "Find the position of grapheme cluster breaks in a string",
   "main": "src/index.js",
