@@ -1,3 +1,5 @@
+**This repository has been moved to https://code.haverbeke.berlin/marijn/find-cluster-break**
+
 # @marijn/find-cluster-break
 
 Small JavaScript module for finding grapheme cluster breaks in
